@@ -1,6 +1,6 @@
-# This repository is of php exercises
+# php exercises
 
-It contains task in php, they can be easy, medium and hard.
+Practice Practice Practice
 
 ## Learning Goals
 
