@@ -14,7 +14,7 @@ It contains task in php, they can be easy, medium and hard.
 1. Create a script that prints "Hello, [Your Name]" using a variable $name.
 2. Create a function calculateTotal($price, $tax) that takes a price and a tax rate, calculates the total, and returns it.
 3. Use the date() function to print today's date in this format: "25th of December, 2025".
-4. Create an array of 5 Venezuelan cities. Use a foreach loop to print them as an HTML list (&lt;ul&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;).
+4. Create an array of 20 Random Cities. Use a foreach loop to print them as an HTML list (&lt;ul&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;).
 5. Create a variable $age. If age is under 18, print "Access Denied." If 18 or older, print "Welcome."
 6. Create a variable $email = " USER@gmail.com ";. Use PHP functions to: 1. Trim the spaces. 2. Make it all lowercase.
 7. Generate a random number between 1 and 100. If it is greater than 50, print "High". Otherwise, print "Low".
