@@ -7,7 +7,10 @@
 </head>
 <body>
     <?php
-    // 6. Create a variable $email = " USER@gmail.com ";. Use PHP functions to: 1. Trim the spaces. 2. Make it all lowercase.
+    // 6. Create a variable $email = " USER@gmail.com ";. 
+    // Use PHP functions to: 
+    // 1. Trim the spaces. 
+    // 2. Make it all lowercase.
 
     ?>
 </body>
