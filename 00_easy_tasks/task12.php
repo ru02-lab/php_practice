@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    
+    // 12. Output a paragraph &lt;p&gt; with the text "Learning PHP" using echo.
     ?>
 </body>
 </html>

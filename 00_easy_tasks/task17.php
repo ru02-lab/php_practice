@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    
+    // 17. Use `` and // PHP Comment in the same file.
     ?>
 </body>
 </html>

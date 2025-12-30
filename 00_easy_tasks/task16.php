@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    
+    // 16. Echo an image tag &lt;img&gt; with a placeholder source.
     ?>
 </body>
 </html>

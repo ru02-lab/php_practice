@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    
+    // 15. Echo an HTML link &lt;a&gt; pointing to Google.
     ?>
 </body>
 </html>

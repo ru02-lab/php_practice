@@ -7,7 +7,8 @@
 </head>
 <body>
     <?php
-    
+    // 13. Output the same text using print.
+
     ?>
 </body>
 </html>

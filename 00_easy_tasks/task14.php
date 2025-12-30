@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    
+    // 14. Create a variable $title = "My Site"; and output it inside the &lt;title&gt; tags.
     ?>
 </body>
 </html>

@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    
+    // 19. Use concatenation . to join "Hello" and "World" and print it.
     ?>
 </body>
 </html>

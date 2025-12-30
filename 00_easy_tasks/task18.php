@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    
+    // 18. Output a &lt;div&gt; with a style attribute (e.g., color: red) via PHP.
     ?>
 </body>
 </html>

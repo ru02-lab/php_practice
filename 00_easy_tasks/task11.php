@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    
+    // 11. Create a PHP script that creates a file that says Hello World.
     ?>
 </body>
 </html>

@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    
+    // 20. Use the "short echo tag" &lt;?= "Short tag" ?&gt; (enable it in settings if needed).
     ?>
 </body>
 </html>

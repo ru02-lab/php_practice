@@ -21,7 +21,7 @@ Practice Practice Practice
 8. Take a sentence string: "This service is bad." Use str_replace to change "bad" to "good".
 9. Create an array with complex data. Use var_dump($array); and die(); to display it. 
 10. Create header.php (with HTML navigation) and footer.php. Create index.php and pull them both in using include 'header.php'.
-11. Create a PHP file that outputs &lt;h1&gt;Hello World&lt;/h1&gt;.
+11. Create a PHP file that outputs a file that says &lt;h1&gt;Hello World&lt;/h1&gt;.
 12. Output a paragraph &lt;p&gt; with the text "Learning PHP" using echo.
 13. Output the same text using print.
 14. Create a variable $title = "My Site"; and output it inside the &lt;title&gt; tags.

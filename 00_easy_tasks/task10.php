@@ -7,7 +7,8 @@
 </head>
 <body>
     <?php
-    
+     // 10. Create header.php (with HTML navigation) and footer.php. Create index.php and pull them both in using include 'header.php'.
+
     ?>
 </body>
 </html>
